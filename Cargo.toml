@@ -1,0 +1,10 @@
+[package]
+name = "numerics-interp"
+version = "0.1.0"
+edition = "2021"
+description = "Research-grade interpolation methods: linear, Lagrange polynomial, cubic natural spline, barycentric — pure Rust, no dependencies"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SuperInstance/numerics-interp"
+keywords = ["interpolation", "spline", "lagrange", "barycentric", "numerical"]
+categories = ["mathematics", "science", "algorithms"]
+authors = ["SuperInstance"]
